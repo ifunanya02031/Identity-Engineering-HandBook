@@ -4,7 +4,7 @@ Enterprise Identity & Access Management (IAM) is more than username and password
 
 This handbook is a vendor-neutral technical reference designed to explain the principles, architecture, and operational practices of modern Identity Engineering. It is intended for to capture and explain the essence of Identity & Access Management to those seeking structured understanding of enterprise identity.
 
-The handbook covers the complete identity lifecycle—from the moment an employee is hired through authentication, federation, authorization, provisioning, governance, and eventual offboarding.
+The handbook covers the complete identity lifecycle, from the moment an employee is hired through authentication, federation, authorization, provisioning, governance, and eventual offboarding.
 
 ---
 
