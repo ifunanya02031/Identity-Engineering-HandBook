@@ -20,6 +20,7 @@ Rather than managing users individually within every application, IAM centralize
 
 ### IAM ensures the right identities have the right access to the right resources at the right time.
 
+---
 
 ## Core Responsibilities
 
