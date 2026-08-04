@@ -1,6 +1,3 @@
-# Identity-Engineering
-Enterprise Identity &amp; Access Management documentation, architecture, runbooks, troubleshooting guides, and implementation notes.
-
 # Identity Engineering Handbook
 
 Enterprise Identity & Access Management (IAM) is more than username and password. It encompasses the design, implementation, operation, and governance of identities across enterprise systems.
@@ -23,10 +20,8 @@ The handbook covers the complete identity lifecycle—from the moment an employe
 - Identity Governance
 - Cloud Identity
 - Troubleshooting
-- Runbooks #
 - Configuration Guides
 - Architecture
-- Interview Preparation #
 
 ---
 
@@ -42,10 +37,8 @@ The handbook covers the complete identity lifecycle—from the moment an employe
 07-Administration
 08-Cloud-Identity
 09-Troubleshooting
-10-Runbooks #
-11-Configuration-Guides
-12-Architecture
-13-Interview-Prep #
+10-Configuration-Guides
+11-Architecture
 ```
 
 ---
@@ -58,7 +51,7 @@ This handbook is built around several core principles:
 - Authentication verifies identity.
 - Authorization determines access.
 - Provisioning automates account management.
-- Governance ensures access remains appropriate. #
+- Governance ensures access remains appropriate. 
 - Security should be automated as much as possible. 
 
 ---
