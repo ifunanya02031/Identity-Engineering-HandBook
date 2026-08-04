@@ -4,9 +4,9 @@
 
 Every organization manages identities.
 
-Employees need email accounts, cloud access, business applications, VPN access, file shares, and countless other resources. Without a centralized way to manage identities and access, every application becomes responsible for maintaining its own users, permissions, and authentication.
+Employees need email accounts, cloud access, business applications, VPN access, file shares, and countless other resources. Without a centralized way to manage identities and access (to applications), every application then becomes responsible for maintaining its own users, permissions, and authentication.
 
-This quickly becomes difficult to manage, inconsistent, and insecure.
+This quickly becomes difficult to manage, scattered, inconsistent, and insecure.
 
 Identity & Access Management (IAM) exists to solve that problem.
 
@@ -18,7 +18,7 @@ Identity & Access Management (IAM) is the discipline of creating, managing, secu
 
 Rather than managing users individually within every application, IAM centralizes identities and their authentication, receive access, change roles, and eventually lose access when they leave the organization.
 
-IAM ensures the right identities have the right access to the right resources at the right time.
+### IAM ensures the right identities have the right access to the right resources at the right time.
 
 ---
 
@@ -89,7 +89,7 @@ IAM connects every stage of this process.
 
 A new employee joins the Finance department.
 
-Instead of manually creating accounts in every application, the organization creates the employee's identity once. IAM then provisions the appropriate application accounts, assigns the correct access, enforces authentication policies, and manages future access changes automatically as the employee moves throughout the organization.
+Instead of manually creating accounts in every application, the organization creates the employee's identity once. IAM then provisions the appropriate application accounts, assigns the correct access, enforces authentication policies, and manages future access changes automatically as the employee moves throughout the organization, known as Identity/Account Provisioning.
 
 ---
 
