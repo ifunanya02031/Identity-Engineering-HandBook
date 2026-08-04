@@ -20,7 +20,6 @@ Rather than managing users individually within every application, IAM centralize
 
 ### IAM ensures the right identities have the right access to the right resources at the right time.
 
----
 
 ## Core Responsibilities
 
@@ -34,54 +33,6 @@ Identity & Access Management is responsible for:
 - Enforcing security policies
 - Automating access management
 - Supporting governance and compliance
-
----
-
-## Enterprise Components
-
-A modern IAM environment commonly includes:
-
-- HR System
-- Directory Services
-- Identity Provider (IdP)
-- Identity Governance Platform
-- Enterprise Applications
-- Cloud Platforms
-- Multi-Factor Authentication
-- Provisioning Services
-
-Each component performs a specific function within the enterprise identity architecture.
-
----
-
-## Where IAM Fits
-
-```text
-Employee
-     │
-     ▼
-HR System
-     │
-     ▼
-Directory Services
-     │
-     ▼
-Identity Provider
-     │
-     ▼
-Authentication
-     │
-     ▼
-Federation
-     │
-     ▼
-Authorization
-     │
-     ▼
-Enterprise Applications
-```
-
-IAM connects every stage of this process.
 
 ---
 
